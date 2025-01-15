@@ -11,7 +11,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanoregan&show_icons=true&theme=radical)
 
 <!---
 ryanoregan/ryanoregan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
