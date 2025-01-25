@@ -4,7 +4,7 @@
 
 An aspiring Full Stack developer from New Zealand.
 
-![Chill Mario, Pixel Jeff](https://github.com/yourusername/yourrepositoryname/blob/main/Chill%20Mario,%20Pixel%20Jeff.gif)
+![Chill Mario, Pixel Jeff](https://github.com/ryanoregan/ryanoregan/blob/main/Chill%20Mario,%20Pixel%20Jeff.gif)
 
 
 - 👀 I’m interested in learning full stack software development.
