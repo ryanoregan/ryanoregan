@@ -2,7 +2,9 @@
 
 ---
 
-An aspiring Full Stack developer from New Zealand.
+<p align="center">
+<b>An aspiring Full Stack developer from New Zealand.</b>
+</p>
 
 ![Chill Mario, Pixel Jeff](https://github.com/ryanoregan/ryanoregan/blob/main/Chill%20Mario,%20Pixel%20Jeff.gif)
 
