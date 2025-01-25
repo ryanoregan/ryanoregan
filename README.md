@@ -2,6 +2,11 @@
 
 ---
 
+An aspiring Full Stack developer from New Zealand.
+
+![Chill Mario, Pixel Jeff](https://github.com/yourusername/yourrepositoryname/blob/main/Chill%20Mario,%20Pixel%20Jeff.gif)
+
+
 - 👀 I’m interested in learning full stack software development.
 - 🌱 I’m currently learning C# and PHP, while touching up on my React Knowledge.
 - 💞️ I’m looking to collaborate on any project involving the development stack.
