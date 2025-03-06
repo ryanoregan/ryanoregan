@@ -14,7 +14,6 @@
 - 💞️ I’m looking to collaborate on any project involving the development stack.
 - 📫 How to reach me: Email me at Ryan8489@gmail.com or find me on linkedin.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm one of the top players of an obscure Korean MMO.
 
 ---
 
