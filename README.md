@@ -9,9 +9,9 @@
 ![Chill Mario, Pixel Jeff](https://github.com/ryanoregan/ryanoregan/blob/main/Chill%20Mario,%20Pixel%20Jeff.gif)
 
 
-- 👀 I’m interested in learning full stack software development.
-- 🌱 I’m currently learning C# and PHP, while touching up on my React Knowledge.
-- 💞️ I’m looking to collaborate on any project involving the development stack.
+- 👀 I’m interested in progressing in full stack software development.
+- 🌱 I’m currently learning MERN (MongoDB, ExpressJS, React and Node).
+- 💞️ I’m looking to collaborate on any project - passionate about fitness apps!
 - 📫 How to reach me: Email me at Ryan8489@gmail.com or find me on linkedin.
 - 😄 Pronouns: He/Him
 
